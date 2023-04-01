@@ -1,3 +1,55 @@
 <resources>
-    <string name="app_name">BMIcalculator</string>
+    <string name="app_name">PAM_FitApp</string>
+    <string name="title_bmiCalculator">BMI Calculator</string>
+    <string name="title_kcal">Kcal calculator</string>
+    <string name="title_recipes">Recipes</string>
+    <string name="recipe_button">Show recipe</string>
+    <string-array name="gender_dropdown">
+        <item>MALE</item>
+        <item>FEMALE</item>
+    </string-array>
+    <string-array name="recipe_names">
+        <item>Tteokbokki</item>
+        <item>Sesame Peanut Noodles</item>
+    </string-array>
+    <string-array name="recipe_ingredients_Sesame_Peanut_Noodles">
+        <item>8 ounces dry soba, rice, or egg noodles</item>
+        <item>2 tablespoons toasted sesame oil, divided</item>
+        <item>3 tablespoons natural peanut butter</item>
+        <item>1/4 cup soy sauce</item>
+        <item>1 1/2 tablespoons honey</item>
+        <item>1 1/2 tablespoons rice vinegar</item>
+        <item>1 clove garlic, grated</item>
+        <item>1 tablespoon toasted sesame seeds, for garnish (optional)</item>
+        <item>1 green onion, sliced, for garnish (optional)</item>
+    </string-array>
+    <string-array name="recipe_ingredients_Tteokbokki">
+        <item>2 large eggs</item>
+        <item>1 tablespoon vegetable oil</item>
+        <item>1 small yellow onion, cut into 1/2-inch halfmoons</item>
+        <item>3 green cabbage leaves, cut into 2-inch squares</item>
+        <item>2 cloves garlic, minced</item>
+        <item>1 1/2 cups water</item>
+        <item>1 pound (about 3 cups) garaetteok (cylindrical Korean rice cakes)</item>
+        <item>2 scallions, ends trimmed and cut into 2-inch pieces</item>
+        <item>3 tablespoons gochujang</item>
+        <item>1 tablespoon soy sauce, plus more to taste</item>
+        <item>2 teaspoons sugar, plus more to taste</item>
+        <item>1 teaspoon toasted sesame oil</item>
+        <item>1 teaspoon toasted sesame seeds</item>
+    </string-array>
+    <string-array name="recipe_steps_Tteokbokki">
+        <item>1. Hard-boil the eggs</item>
+        <item>2. Cook the vegetables</item>
+        <item>3. Add the tteok and seasonings</item>
+        <item>4. Simmer the tteokbokki</item>
+        <item>5. Add sesame oil and season</item>
+        <item>6. Serve the tteokbokki</item>
+    </string-array>
+    <string-array name="recipe_steps_Sesame_Peanut_Noodles">
+        <item>1. Cook the noodles</item>
+        <item>2. Prepare the sauce</item>
+        <item>3. Assemble the noodles</item>
+        <item>4. Serve the noodles</item>
+    </string-array>
 </resources>
