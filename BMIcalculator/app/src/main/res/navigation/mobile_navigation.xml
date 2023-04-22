@@ -6,6 +6,14 @@
     app:startDestination="@+id/navigation_bmicalculatorfragment">
 
     <fragment
+        android:id="@+id/navigation_bmichart"
+        android:name="com.pjatk.pam_fitapp.ui.bmiChart.bmiChartFragment"
+        android:label="@string/title_bmichart" />
+    <fragment
+        android:id="@+id/navigation_fitquizfragment"
+        android:name="com.pjatk.pam_fitapp.ui.fitQuiz.fitQuizFragment"
+        android:label="@string/title_fitquiz" />
+    <fragment
         android:id="@+id/navigation_bmicalculatorfragment"
         android:name="com.pjatk.pam_fitapp.ui.bmiCalculator.bmiCalculatorFragment"
         android:label="@string/title_bmiCalculator" />

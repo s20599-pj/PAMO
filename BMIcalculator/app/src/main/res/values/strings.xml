@@ -3,6 +3,8 @@
     <string name="title_bmiCalculator">BMI Calculator</string>
     <string name="title_kcal">Kcal calculator</string>
     <string name="title_recipes">Recipes</string>
+    <string name="title_fitquiz">Fit quiz</string>
+    <string name="title_bmichart">BMI chart</string>
     <string name="recipe_button">Show recipe</string>
     <string-array name="gender_dropdown">
         <item>MALE</item>
