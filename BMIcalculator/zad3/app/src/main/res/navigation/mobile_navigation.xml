@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_bmicalculatorfragment">
+
+    <fragment
+        android:id="@+id/navigation_bmichart"
+        android:name="com.pjatk.pam_fitapp.ui.bmiChart.bmiChartFragment"
+        android:label="@string/title_bmichart" />
+    <fragment
+        android:id="@+id/navigation_fitquizfragment"
+        android:name="com.pjatk.pam_fitapp.ui.fitQuiz.fitQuizFragment"
+        android:label="@string/title_fitquiz" />
+    <fragment
+        android:id="@+id/navigation_bmicalculatorfragment"
+        android:name="com.pjatk.pam_fitapp.ui.bmiCalculator.bmiCalculatorFragment"
+        android:label="@string/title_bmiCalculator" />
+
+    <fragment
+        android:id="@+id/navigation_kcalcalculator"
+        android:name="com.pjatk.pam_fitapp.ui.kcalCalculator.kcalCalculatorFragment"
+        android:label="@string/title_kcal" />
+
+    <fragment
+        android:id="@+id/navigation_recipes"
+        android:name="com.pjatk.pam_fitapp.ui.recipes.recipesFragment"
+        android:label="@string/title_recipes"
+        tools:layout="@layout/fragment_recipe" />
+</navigation>

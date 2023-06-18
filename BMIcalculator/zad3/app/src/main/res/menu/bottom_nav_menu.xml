@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_bmicalculatorfragmen"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_bmiCalculator" />
+    <item
+        android:id="@+id/navigation_bmichart"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_bmichart" />
+    <item
+        android:id="@+id/navigation_kcalcalculator"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_kcal" />
+    <item
+        android:id="@+id/navigation_fitquiz"
+        android:icon="@android:drawable/btn_star"
+        android:title="@string/title_fitquiz" />
+    <item
+        android:id="@+id/navigation_recipes"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_recipes" />
+
+</menu>
